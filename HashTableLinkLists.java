@@ -33,6 +33,7 @@ public class HashTableLinkLists
          table[position] = temp;
       }
    }
+   
     
    public static void delete(int val)
    {
